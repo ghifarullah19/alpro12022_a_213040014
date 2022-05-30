@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Lutfi\Documents\UNPAS\PERKULIAHAN\SEMESTER 2\IFW210204 - AP\TUGAS\Alpro1\Alpro1Angkatan2021\.metadata\.plugins\org.eclipse.jdt.core
+3585112506.index
+2507490132.index
+482916831.index
+1865797976.index
+3253839435.index
